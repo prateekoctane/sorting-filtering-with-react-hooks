@@ -1,6 +1,6 @@
 <h1>Book Management</h1>
 
-<h2>This is a small react app which handles a collection of books and displays them on the home screen. Through this app I have tried to implement sorting, filtering data using redux state and json-server sorting and filtering api features. Also implemented the persisting of data with the use of useSearchParams() hooks, useLocation(), useEffect(). Also implemented Private Routes, meaning only those who are logged in can view the single product page and can have admin access for editing the details of the books.</h2> 
+<h2>This is a small react app which handles a collection of books and displays them on the home screen. Through this app I have tried to implement sorting, filtering data using redux state and json-server sorting and filtering api features. Also implemented the persisting of data with the use of useSearchParams() hooks, useLocation(), useEffect(). Also implemented Private Routes, meaning only those who are logged in can view the single book page and can have admin access for editing the details of the books.</h2> 
 
 <h3>Tech Stacks Used:</h3>
 1. react <br />
